@@ -1,6 +1,17 @@
+#this is a comment in python
+"""
+this is a
+multi line comment <3
+"""
 
-var_a="string"
-var_b="some other string"
+var_a= 2
+var_b= 3.5
+var_c= "string"
 
-if(var_a == var_b):
-     print(True
+def sum(a,b):
+      return 2+3
+
+print ("float -" + str(var_b))
+print ("int -" +str(int(var_b)))
+print(bool(0))
+
